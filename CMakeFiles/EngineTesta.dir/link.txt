@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/EngineTesta.dir/link.d CMakeFiles/EngineTesta.dir/src/projDemo/main.cpp.o -o bin/EngineTesta  dep/glfw/src/libglfw3.a /usr/lib64/librt.a -lm -ldl
